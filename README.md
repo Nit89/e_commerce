@@ -1,5 +1,5 @@
 # e_commerce
-This project(ongoing) is complet e-commerce app which have folowing functionalities :  <br />
+This project(ongoing) is complete e-commerce app which has following functionalities :  <br />
 1.Home page (shows popuplar product and recommended products) <br />
 2.Popular food page (view popular food, add or remove items from the cart) <br />
 3.Sign in and Sign up (sign up with mobile) <br />
